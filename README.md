@@ -37,5 +37,4 @@ Enter the values expected by that particular exercise. No third-party packages a
 
 > These are archived university exercises from an introductory course, not production applications. The original code and its learning progression have been preserved; no claim of automated test coverage is made.
 
----
-<sub>Made with curiosity and a lot of Python practice · Ana Beatriz Barbosa Yoshida</sub>
+
